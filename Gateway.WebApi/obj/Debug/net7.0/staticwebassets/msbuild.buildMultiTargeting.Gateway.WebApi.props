@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gateway.WebApi.props" />
+</Project>
